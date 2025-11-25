@@ -1,8 +1,3 @@
-<!-- Banner opcional -->
-<p align="center">
-  <img src="/mnt/data/7e7a7dd0-0909-4464-80e0-bd2e0e4664f4.png" width="300">
-</p>
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  
   Hello, I'm Rafael Alves
